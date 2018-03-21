@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Blips</string>
     <string name="title_activity_blips_map">Blips</string>
+    <string name="toolbar_edit_button">LookUp</string>
+    <string-array name="JSON_dbsync_req">
+        <item>requestType</item>
+        <item>dbsync</item>
+    </string-array>
+    <string name="title_activity_look_up">LookUp</string>
+    <string name="look_up_search_radius_text">Search Radius</string>
+    <string name="look_up_search_radius_hint">Radius in km</string>
 </resources>
